@@ -62,7 +62,7 @@ function draw() {
   fill("#FFFF");
   textAlign("center");
   textSize(40);
-  text("HUNTER ARCHER", width / 2, 100);
+  text("EPIC ARCHERY", width / 2, 100);
 
  
   playerBase.display();
